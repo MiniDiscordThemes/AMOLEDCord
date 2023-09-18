@@ -1,7 +1,7 @@
 {
-  "id": "dev.LuckFire.AMOLEDCord",
-  "name": "AMOLED-Cord",
-  "description": "A basically pitch black theme for Discord. Lights out, baby!",
+  "id": "net.Saltssaumure.Skylight",
+  "name": "Skylight",
+  "description": "AMOLED-Cord with a peek of sunlight.",
   "author": [
     {
       "name": "Saltssaumure",
@@ -14,10 +14,10 @@
       "github": "LuckFire"
     }
   ],
-  "version": "4.1.0",
+  "version": "1.0.0",
   "updater": {
     "type": "store",
-    "id": "dev.LuckFire.AMOLEDCord"
+    "id": "net.Saltssaumure.Skylight"
   },
   "license": "MIT",
   "type": "replugged-theme",

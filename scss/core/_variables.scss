@@ -1,4 +1,7 @@
 :root {
+    --sky-bg-image: url("https://wallpapercave.com/wp/wp2394190.jpg");
+    --sky-bg: var(--sky-bg-image) center/cover;
+
     /* ignore these, unless you wanna mess with them, then go for it. they may be removed at any time, though. */
     --lightness-600-660: 0%;
     --lightness-700-760: 0%;

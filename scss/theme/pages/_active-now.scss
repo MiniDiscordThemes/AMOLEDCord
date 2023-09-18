@@ -1,8 +1,13 @@
-#app-mount .nowPlayingColumn-1eCBCN {
-    .separator-2OaeRP {
-        background-color: var(--background-secondary);
+#app-mount {
+    .container-2cd8Mz {
+        background: var(--sky-bg);
     }
-    .applicationStreamingPreviewWrapper-7j27t8 {
-        background-color: var(--background-secondary-alt);
+    .nowPlayingColumn-1eCBCN {
+        .separator-2OaeRP {
+            background-color: var(--background-secondary);
+        }
+        .applicationStreamingPreviewWrapper-7j27t8 {
+            background-color: var(--background-secondary-alt);
+        }
     }
 }
