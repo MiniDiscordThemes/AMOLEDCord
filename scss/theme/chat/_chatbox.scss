@@ -1,6 +1,9 @@
 #app-mount .chat-2ZfjoI,
 .container-3XgAHv {
     .form-3gdLxP {
+        &::before {
+            display: none;
+        }
         .optionPill-2kmuZR {
             background-color: var(--primary-730);
         }

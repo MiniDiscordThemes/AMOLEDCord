@@ -4,5 +4,14 @@
     }
     .chatContent-3KubbW {
         background: var(--sky-bg);
+        border-radius: 15px;
+        box-shadow: inset 0 0 10px 0 black;
+
+        font-weight: 600;
+        --text-normal: white;
+        --text-muted: #d5dde9;
+        text-shadow:
+            0 0 2px rgb(16, 68, 165),
+            0 0 5px rgb(40, 170, 204);
     }
 }
