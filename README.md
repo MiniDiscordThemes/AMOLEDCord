@@ -32,6 +32,10 @@
 [release-rp]:       https://replugged.dev/store/dev.LuckFire.AMOLEDCord "Replugged store page"
 [release-rp-gh]:    https://github.com/MiniDiscordThemes/AMOLEDCord/releases/latest/download/dev.LuckFire.AMOLEDCord.asar "Get latest release"
 
+# ARCHIVED! ARCHIVED! ARCHIVED! ARCHIVED! ARCHIVED!
+# Use https://github.com/FedeIlLeone/amoled-cord instead.
+# ARCHIVED! ARCHIVED! ARCHIVED! ARCHIVED! ARCHIVED!
+
 # AMOLED-CORD Discord Theme
 [![Buy me a coffee on ko-fi][shield-donate]][ko-fi]
 [![Replugged GitHub downloads][shield-asar-dl]][release-rp-gh]
